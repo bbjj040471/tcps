@@ -1,0 +1,6 @@
+-sname tcps
+
+-setcookie tcps_cookie
+
++K true
++A30
